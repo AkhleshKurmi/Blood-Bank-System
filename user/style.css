@@ -1,0 +1,37 @@
+.header{
+    width: 100%;
+    height: 80px;
+    background: red;
+    color: white;
+}
+
+.banner{
+    width: 100%;
+    height: 400px;
+    background: url('../images/donate3.jpg');
+    background-size: 100%;
+}
+
+.container{
+    width: 100%;
+    height: 300px;
+}
+
+.footer{
+    width: 100%;
+    height: 100px;
+    background: red;
+    color: white;
+    text-align: center;
+}
+
+#a{width: 20%;height: 30px;float: left;text-align: center;}
+#b{width: 20%;height: 30px;float: left;text-align: center;}
+#c{width: 20%;height: 30px;float: left;text-align: center;}
+
+#e{width: 20%;height: 30px;float: left;text-align: center;}
+
+a{ text-decoration: none; color: white;}
+
+
+
